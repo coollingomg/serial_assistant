@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/serial_assistant_pic">
+        <file>serial_assistant_pic/wut_Schoolbadge.jpg</file>
+        <file>serial_assistant_pic/exe.ico</file>
+    </qresource>
+</RCC>
