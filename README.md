@@ -3,4 +3,4 @@
 
  # 2023年3月22日提交
  * serial_app -> 该文件为第一版本的串口助手app文件
- * serial_assistant_code -> 改文件为目前的源码
+ * serial_assistant_code -> 该文件为目前的源码
